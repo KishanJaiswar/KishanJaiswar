@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently working as a frontend developer
 - 💞️ I’m looking to collaborate in projects
-- 📫 How to reach me (kisanjaiswa123@gmail.com)
+- 📫 How to reach me (jaiswarkishan78@gmail.com)
 - 😄 Pronouns: Kishan
 
 <!---
